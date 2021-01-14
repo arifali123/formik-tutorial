@@ -1,0 +1,27 @@
+{
+  "name": "formik-tutorial",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.2",
+    "axios": "^0.21.1",
+    "formik": "^2.2.6",
+    "lodash": "^4.17.20",
+    "next": "10.0.5",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "yup": "^0.32.8"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.167",
+    "@types/node": "^14.14.20",
+    "@types/react": "^17.0.0",
+    "@types/yup": "^0.29.11",
+    "typescript": "^4.1.3"
+  }
+}
